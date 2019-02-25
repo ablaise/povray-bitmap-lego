@@ -20,8 +20,8 @@ sky_sphere { pigment { color rgb <0.4, 0.7, 1.0> } }
 camera
 {
     angle 42
-    location <-5000, 17000,-20000>
-    look_at  <8000, 6000, 4000>
+    location <-5000, 17000, -20000>
+    look_at  <8000,  6000,  4000>
 }
 
 // left side camera
@@ -30,7 +30,7 @@ camera
 {
     angle 42
     location <-22000, 10000, 4000>
-    look_at  <10000, 7000, 4000>
+    look_at  <10000,  7000,  4000>
 }
 
 // assign a camera
